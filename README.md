@@ -1,3 +1,3 @@
 # PuzzleSolver
 
-PuzzleSolver is an implementation of the A* algorithm to solve an 8-puzzle (3 by 3) matrix problem.
+PuzzleSolver is an implementation of the A* search algorithm to solve an 8-puzzle on a 3 by 3 matrix board.

@@ -412,6 +412,7 @@ class PuzzleSolver {
     
     */
     
+    /*
     //yt 23
     
     int[][] initialState = {
@@ -419,18 +420,18 @@ class PuzzleSolver {
         {0, 7, 1},
         {2, 4, 5}
     };
-    
+    */
     
     
 
-    /*
+    
     //other 20
     int[][] initialState = {
         {2, 7, 1},
         {6, 3, 5},
         {0, 4, 8}
     };
-    */
+    
     
     /*
      //unsolvable -1
